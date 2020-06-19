@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+  text-align: center;
+  width: 100%;
+}
+
+#wrapper{
+  text-align:left;
+  width:100%;
+  margin:0 auto;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top:3%;
+}
+
+
+#left {
+  width=20%;
+  display:inline-block;
+  float:left;
+  border-right: 2px solid black;
+  padding-right: 10px;
+}
+
+#right{
+  margin-left: 3%;
+  text-align: center;
+  width:60%;
+  float: left;
+}
+
+#pic {
+  text-align: center;
+}
+
+#blah {
+  margin-top: 150px;
+}
+
+.box{
+  border: 2px solid blue;
+  display:block;
+  margin:20px;
+  width=70%;
+}
